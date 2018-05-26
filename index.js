@@ -1,6 +1,6 @@
 // Write your solution in this file!
 let driver = { driver: "dee"}
 
-updateDriverWithKeyAndValue(driver){
+function updateDriverWithKeyAndValue(driver){
   driver.driver = "meg"
 }
