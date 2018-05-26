@@ -18,3 +18,4 @@ function deleteFromDriverByKey(driver){
   const newerDriver = {...driver};
     delete newerDriver.address;
   return newerDriver;
+}
