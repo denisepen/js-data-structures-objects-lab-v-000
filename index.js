@@ -8,5 +8,4 @@ function updateDriverWithKeyAndValue(driver){
   return newDriver
 }
 
-const newDriver = 
 
